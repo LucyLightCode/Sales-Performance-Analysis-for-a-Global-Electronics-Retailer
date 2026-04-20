@@ -33,11 +33,17 @@ Data Modeling (Star Schema)
 
 <img width="640" height="359" alt="Screenshot 2026-04-20 000557" src="https://github.com/user-attachments/assets/725633c0-acbd-4b5b-a1b1-e23a0d071d42" />
 
+
 *SOLUTION*
+
 1.Power BI Data Model: Star schema connecting fact and dimension tables. 
+
 2.Interactive Dashboard: 3-4 pages covering KPIs, trends,product/customer insights, and store performance 
+
 3.Final Presentation: Insights and recommendations based on the analysis 
+
 4.Deliver actionable insights for teams
+
 5.Report Published to Power BI Service: Interactive, shareable report for management 
 
 🧱 Data Model
