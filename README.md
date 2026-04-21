@@ -1,4 +1,4 @@
-# Sales-Performance-Analysis-for-a-Global-Electronics-Retailer
+# Sales-Performance-Analysis-for-a-Global-Electronics-Retailer (Power BI)
 
 ## **Project Background**
 
