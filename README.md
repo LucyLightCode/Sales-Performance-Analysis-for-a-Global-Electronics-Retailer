@@ -35,6 +35,7 @@ Data Modeling (Star Schema)
 
 
 ## **Solution**
+---
 
 1.Power BI Data Model: Star schema connecting fact and dimension tables. 
 
@@ -69,22 +70,18 @@ A star schema was implemented to ensure efficient querying and accurate analysis
 📊 _Dashboard Overview_
 
 🟢 1. _Executive Overview_
-
 <img width="853" height="475" alt="Screenshot 2026-04-18 194252" src="https://github.com/user-attachments/assets/984b02c1-3a19-490e-b0aa-c9449450a6b8" />
 
 
 🔵 2. _Sales Trends & YoY Analysis_
-
 <img width="851" height="472" alt="Screenshot 2026-04-18 193923" src="https://github.com/user-attachments/assets/787b2558-41ad-43cd-9812-27a27231918a" />
 
 
 🟣 3. _Product & Customer Insights_
-
 <img width="852" height="471" alt="Screenshot 2026-04-18 191513" src="https://github.com/user-attachments/assets/dba782c5-9745-4dc9-a26c-337d5536ae44" />
 
 
 🟠 4. _Store & Regional Performance_
-
 <img width="855" height="483" alt="Screenshot 2026-04-18 184907" src="https://github.com/user-attachments/assets/3d41fa50-b597-4aa9-9d9a-d27c9b3b1af0" />
 
 
