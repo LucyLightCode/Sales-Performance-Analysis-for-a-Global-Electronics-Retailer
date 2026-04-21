@@ -1,5 +1,7 @@
 # Sales-Performance-Analysis-for-a-Global-Electronics-Retailer
 
+## **Project Background**
+
 📌 Project Overview
 
 This project presents an end-to-end sales analysis for a global electronics retailer using Power BI. The goal was to consolidate multiple data sources into a unified analytical model and develop an interactive dashboard to monitor performance, identify trends, and generate actionable business insights.
@@ -32,7 +34,7 @@ DAX (Data Analysis Expressions)
 Data Modeling (Star Schema)
 
 
-##SOLUTION
+## **Solution**
 
 1.Power BI Data Model: Star schema connecting fact and dimension tables. 
 
