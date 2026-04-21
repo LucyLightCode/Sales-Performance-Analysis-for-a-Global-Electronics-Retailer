@@ -32,7 +32,7 @@ DAX (Data Analysis Expressions)
 Data Modeling (Star Schema)
 
 
-**SOLUTION**
+##SOLUTION
 
 1.Power BI Data Model: Star schema connecting fact and dimension tables. 
 
