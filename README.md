@@ -63,7 +63,8 @@ Exchange Rates (currency normalization)
 
 A star schema was implemented to ensure efficient querying and accurate analysis.
 
-<img width="1018" height="488" alt="Screenshot 2026-04-18 195817" src="https://github.com/user-attachments/assets/7a3420bc-cdcd-448a-bd73-a5f89e22e7bc" />
+<img width="767" height="483" alt="Screenshot 2026-04-21 090018" src="https://github.com/user-attachments/assets/f8edc3a8-3391-4831-8ac0-9a7a546a7234" />
+
 
 
 📊 _Dashboard Overview_
