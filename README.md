@@ -35,7 +35,6 @@ Data Modeling (Star Schema)
 
 
 ## **Solution**
----
 
 1.Power BI Data Model: Star schema connecting fact and dimension tables. 
 
@@ -84,8 +83,34 @@ A star schema was implemented to ensure efficient querying and accurate analysis
 🟠 4. _Store & Regional Performance_
 <img width="855" height="483" alt="Screenshot 2026-04-18 184907" src="https://github.com/user-attachments/assets/3d41fa50-b597-4aa9-9d9a-d27c9b3b1af0" />
 
+## Insight from the analysis
 
+• Profit margins remain relatively stable across categories, averaging around 55%–60%  
+• There is no significant evidence of margin shrinkage, The profit margins remain stable across time and categories, which indicates pricing and cost structures haven’t significantly changed 
+• This suggests that declining performance is likely driven by reduced sales volume rather than rising costs or discounting  
+• Revenue is heavily driven by a small number of top-performing products, particularly in Computers, Cameras, and Cell Phones  
+• A significant number of products are underperforming, contributing little to overall revenue and indicating inefficiencies in the product portfolio  
+• The gap between top and bottom products is substantial, highlighting reliance on a limited set of high-performing items  
+• Older customers generate the highest revenue share
+• Revenue is heavily concentrated in older stores, indicating reliance on mature locations  
+• New stores contribute minimally, suggesting slow ramp-up performance  
+• Some regions show strong growth, while others lag behind  
+• Declining regions may be contributing to overall revenue drop  
+• Top-performing states generate significantly higher revenue than others  
+• Bottom-performing states contribute minimal revenue and may require strategic review  
+• Growth rates vary across countries, indicating uneven regional performance  
 
+Overall, the revenue decline is likely driven by reduced demand rather than profitability challenges 
+
+## **Recommendations:**
+Based on the uncoved insights, the following recommendations have been provided:
+
+ To reverse the revenue decline, the business should focus on rebuilding customer demand, reducing product concentration risk, and improving performance across weaker regions and newer stores.
+
+• Rebuild demand by strengthening customer acquisition and retention, particularly targeting under-engaged segments  
+• Optimize the product portfolio by scaling high-performing products and reviewing or discontinuing underperforming ones  
+• Address regional performance gaps by investigating declining markets and reallocating investment to high-growth areas  
+• Improve new store performance by applying best practices from top-performing locations to accelerate ramp-up  
 
 
 
